@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "920652571868",
+    "firebase_url": "https://dos-f9894.firebaseio.com",
+    "project_id": "dos-f9894",
+    "storage_bucket": "dos-f9894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920652571868:android:b87d6e8b6d2e291f128019",
+        "android_client_info": {
+          "package_name": "kg.dos2.taxi_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920652571868-a9a52qe5odhbvh0ln53b3hdb0iajb5ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdECZrd_OyTQasvfHcGRbXmsk9G-eLcBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920652571868-a9a52qe5odhbvh0ln53b3hdb0iajb5ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920652571868:android:1b1d33ca06ebb237128019",
+        "android_client_info": {
+          "package_name": "kg.dos2.taxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920652571868-a9a52qe5odhbvh0ln53b3hdb0iajb5ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdECZrd_OyTQasvfHcGRbXmsk9G-eLcBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920652571868-a9a52qe5odhbvh0ln53b3hdb0iajb5ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

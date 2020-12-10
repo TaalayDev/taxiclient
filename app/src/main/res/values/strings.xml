@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">2DOS Taxi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="pay_m">
+        <item>Наличными</item>
+    </string-array>
+
+    <string-array name="wish_list">
+        <item>Некурящий салон</item>
+        <item>Курящий салон</item>
+        <item>Перевозка животных</item>
+    </string-array>
+
+    <string-array name="cities_list">
+        <item>Бишкек</item>
+        <item>Ош</item>
+        <item>Жалал-Абад</item>
+        <item>Кара-Суу</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

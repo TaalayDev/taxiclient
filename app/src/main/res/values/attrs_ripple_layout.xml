@@ -1,0 +1,31 @@
+<resources>
+    <declare-styleable name="RippleLayout">
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SlidingUpPaneLayout">
+        <!-- How far in pixels the slideable panel may move -->
+        <attr name="supl_offset" format="dimension"/>
+        <!-- color of the content scrim -->
+        <attr name="supl_contentScrim" format="color|reference"/>
+        <!-- shadow drawable above the sliding panel -->
+        <attr name="supl_shadow" format="reference"/>
+        <!-- anchor point -->
+        <attr name="supl_anchor" format="float|reference"/>
+        <!-- visible height when collapsed -->
+        <attr name="supl_visibleHeight" format="dimension|reference"/>
+        <!-- if true, collapse the panel if touched outside (default to false) -->
+        <attr name="supl_collapseOnTouchOutside" format="boolean|reference"/>
+        <!-- initial panel state -->
+        <attr name="supl_initialState" format="enum|reference">
+            <enum name="expanded" value="0"/>
+            <enum name="anchored" value="1"/>
+            <enum name="collapsed" value="2"/>
+            <enum name="hidden" value="3"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
